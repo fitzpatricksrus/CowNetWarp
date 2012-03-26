@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unnamed">
+    <output-path>$PROJECT_DIR$/classes/artifacts/unnamed</output-path>
+    <root id="archive" name="OpenWarp-cownet.jar">
+      <element id="module-output" name="CowNetWarp" />
+    </root>
+  </artifact>
+</component>
