@@ -1,0 +1,14 @@
+name: OpenWarp
+main: com.lithium3141.OpenWarp.OpenWarp
+author: lithium3141
+version: 1.2-b@BUILD@ (rev @COMMIT@)
+database: false
+softdepend: [Multiverse-Core, MultiVerse]
+commands:
+    warp:
+        description: Manipulate warp points
+        usage: /<command>
+        aliases: owwarp
+    back:
+        description: warp back to the previous teleport or death location
+        alias: owback
